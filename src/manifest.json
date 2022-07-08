@@ -1,0 +1,12 @@
+{
+	"name": "ExamplePlugin",
+	"description": "Example Enmity plugin",
+	"authors": [
+		{
+			"name": "Zoey",
+			"id": "89117667050426368"
+		}
+	],
+	"version": "1.0.0",
+	"color": "#FFFFFF"
+}
